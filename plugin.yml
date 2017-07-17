@@ -1,5 +1,5 @@
 name: killSound
-main; kill\Main
+main: kill\Main
 version: 1.0v
 api: 3.0.0
 author: pluginerMT
